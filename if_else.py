@@ -4,3 +4,4 @@ if age >= 18: #checks if the value of age is greater than or equal to 18
     print("You are eligible to vote") #if yes this is executed
 else:
     print("You are not eligible to vote") #if not then this is executed.
+
